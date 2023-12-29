@@ -17,8 +17,4 @@ export const en = navbar([
         text: "Contact",
         link: "/#contact"
     },
-    {
-        text: "Friends",
-        link: "/#friends"
-    },
 ]);
