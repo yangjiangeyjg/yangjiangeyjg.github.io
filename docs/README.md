@@ -17,19 +17,26 @@ footer: Truly appreciate to <a href="https://github.com/HELLORPG/rpg-homepage-te
 
 ## About Me
 
-Say something.
+I'm a Ph.D student in [MCG Group](https://mcg.nju.edu.cn/index.html), [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/), under the supervision of [Prof. Limin Wang](http://wanglimin.github.io/). My research interests include Computer Vision and Embodied intelligence, recently lie in robot manipulation. This is my [<span style="color:blue;">Google Scholar</span>](https://scholar.google.com/citations?user=bnF9-8YAAAAJ&hl=zh-CN).
+
 
 
 ## Educations
-- *2021.6 - Present*, NeiJuan University.
+- *2017.9 - 2021.6*, [Northeastern University](https://www.neu.edu.cn/), [Computer Science and Technology](http://www.cse.neu.edu.cn/).
+- *2021.9 - Present*, [Nanjing University](https://www.nju.edu.cn/), [Computer Science and Technology](https://cs.nju.edu.cn/main.htm).
+
  
 
 ## Internships
-- *2019.7 - 2019.9*, Do something, Some Company.
+
+- *2023.2.21 - 2023.12.31*, [MSM Group](https://www.microsoft.com/en-us/research/group/multimedia-search-and-mining/), Microsoft Research Asia, was awarded the <span style="color:red;">Stars of Tomorrow</span>   honor.
+
+
+## Academic services
+
+- The reviewer of CVPR, ICCV, ECCV, ACCV.
+
 
 
 ## Contact
-- Maybe your email.
-
-## Friends
-Homepages of your friends.
+- Email: [jiangeyang.jgy@gmail.com](mailto:jiangeyang.jgy@gmail.com)

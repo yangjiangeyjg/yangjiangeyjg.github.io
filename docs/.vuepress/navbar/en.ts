@@ -14,11 +14,11 @@ export const en = navbar([
         link: "/#internships"
     },
     {
-        text: "Contact",
-        link: "/#contact"
+        text: "Academic services",
+        link: "/#academic-services"
     },
     {
-        text: "Friends",
-        link: "/#friends"
+        text: "Contact",
+        link: "/#contact"
     },
 ]);

@@ -28,13 +28,13 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "Your Homepage",
-      description: "Your description.",
+      title: "Jiange Yang",
+      description: "description.",
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "你的主页",
-      description: "你的描述。",
+      title: "杨剑阁",
+      description: "描述。",
     },
   },
 

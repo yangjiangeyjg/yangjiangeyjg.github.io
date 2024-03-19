@@ -14,11 +14,12 @@ export const zh = navbar([
     link: "/zh/#实习经历"
   },
   {
+    text: "学术服务",
+    link: "/zh/#学术服务"
+  },
+  {
     text: "联系我",
     link: "/zh/#联系我"
   },
-  {
-    text: "友情链接",
-    link: "/zh/#友情链接"
-  },
+  
 ]);
