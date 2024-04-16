@@ -29,7 +29,9 @@ I'm a Ph.D student in [MCG Group](https://mcg.nju.edu.cn/index.html), [Departmen
 
 ## Internships
 
-- *2023.2.21 - 2023.12.31*, [MSM Group](https://www.microsoft.com/en-us/research/group/multimedia-search-and-mining/), Microsoft Research Asia, was awarded the <span style="color:red;">Stars of Tomorrow</span>   honor.
+- *2023.2.21 - 2023.12.31*, [MSM Group](https://www.microsoft.com/en-us/research/group/multimedia-search-and-mining/), Microsoft Research Asia, was awarded the <span style="color:red;">Stars of Tomorrow</span>   honor, advised by [Bei Liu](https://www.microsoft.com/en-us/research/people/libei/) and [Jianlong Fu](https://www.microsoft.com/en-us/research/people/jianf/).
+
+- *2024.4.16 - Present*, [SHANGHAI QI ZHI INSTITUTE](https://sqz.ac.cn/), advised by [Huazhe Xu](http://hxu.rocks/index.html).
 
 
 ## Academic services
