@@ -31,12 +31,14 @@ I'm a Ph.D student in [MCG Group](https://mcg.nju.edu.cn/index.html), [Departmen
 
 - *2023.2.21 - 2023.12.31*, [MSM Group](https://www.microsoft.com/en-us/research/group/multimedia-search-and-mining/), Microsoft Research Asia, was awarded the <span style="color:red;">Stars of Tomorrow</span>   honor, advised by [Bei Liu](https://www.microsoft.com/en-us/research/people/libei/) and [Jianlong Fu](https://www.microsoft.com/en-us/research/people/jianf/).
 
-- *2023.4.30 - Present*, Shanghai AI Lab.
+- *2024.4.30 - Present*, Shanghai AI Lab[https://www.shlab.org.cn/], advised by Tong He[https://tonghe90.github.io/].
 
 
 ## Academic services
 
-- The reviewer of NeurIPS, CVPR, ICCV, ECCV, ACCV.
+- **Computer Vision**: The reviewer of **CVPR**, **ICCV**, **ECCV**, **ACCV**, **WACV**
+- **Robotics**: The reviewer of **ICRA**, **IROS**
+- **Deep Learning**: The reviewer of **NeurIPS**, **ICLR**, **ICML**
 
 
 
